@@ -50,12 +50,7 @@ class _CoursePageState extends State<CoursePage> {
     _controller = ScrollController();
     super.initState();
   }
-  // final carouselimages = [
-  //   "https://d3gmywgj71m21w.cloudfront.net/0e03b57e91b7d1cc2c6a9647c652d591",
-  //   "https://d3gmywgj71m21w.cloudfront.net/7a96565b354080d95160ca4eded9db61",
-  //   "https://d3gmywgj71m21w.cloudfront.net/d21a8b2d932adce3bbe79230d5bb92f3",
-  //   "https://d3gmywgj71m21w.cloudfront.net/013fb2eeedfc57ddbc2675e2e07e7bca",
-  // ];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
